@@ -1,4 +1,4 @@
-const API_URL = 'https://superheroapi.com/api.php/5d53b0f1e71ed89f6c22d6873e8d5b21'; // Reemplaza con tu token de SuperHero API
+const API_URL = 'https://superheroapi.com/api.php/TU_TOKEN'; // Reemplaza con tu token de SuperHero API
 
 // Lista de héroes populares de Marvel
 const marvelHeroes = [
