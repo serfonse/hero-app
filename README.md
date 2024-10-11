@@ -1,6 +1,6 @@
 # Marvel Heroes
 
-Este proyecto es una aplicación web que muestra una lista de héroes de Marvel utilizando la API de Superhero. Los usuarios pueden buscar héroes por nombre y ver información detallada sobre ellos.
+Este proyecto es una aplicación web que muestra una lista de héroes de Marvel utilizando la API de Superhero.
 
 ## Tecnologías utilizadas
 
